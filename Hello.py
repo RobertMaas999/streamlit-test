@@ -45,7 +45,7 @@ def run():
         - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
     """
     )
-
+    st.header('Hieronder data entry voorbeeld', divider='rainbow')
 
 if __name__ == "__main__":
     run()
